@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+pdfplumber
+numpy
+pandas
+requests
