@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pdfplumber
+sentence-transformers
+python-dotenv
+openai
+torch
+streamlit
+requests
+pandas
